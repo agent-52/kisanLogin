@@ -5,8 +5,8 @@ const HomePage = () => {
   return (
     <div className="home-page">
       <div className="plant-icon">🌱</div>
-      <h1>Welcome to GreenAuth</h1>
-      <p>A secure authentication system with a refreshing plant-based design.</p>
+      <h1>Welcome to KisanMitra</h1>
+      <p>Helping you knowing your farm better.</p>
       
       <div className="home-features">
         <div className="feature">
