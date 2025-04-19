@@ -21,7 +21,7 @@ const Header = () => {
       </div>
       <nav className="nav">
         <ul>
-          <li><Link to="/">Home</Link></li>
+          <li><a href='https://kisanmitra-ten.vercel.app/'>Home</a></li>
           {isAuthenticated ? (
             <>
               <li><Link to="/profile">My Garden</Link></li>
